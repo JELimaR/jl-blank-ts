@@ -1,9 +1,18 @@
 
+*.langjson
+*.famjson
+
+*.txt
+
+.eslintrc.json
+.gitignore
+
+./vscode/*
 node_modules/*
 src/*
 test/*
+jest.config.js
 scripts/*
 .git/*
-.eslintrc.json
-.gitignore
+
 tsconfig.json
